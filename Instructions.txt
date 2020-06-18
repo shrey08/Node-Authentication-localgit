@@ -1,0 +1,10 @@
+Open the project folder(NodeAuth) using git bash.
+Express Generator helps to generate various files just by using command express. 
+$ npm install -g express
+$ npm install -g express-generator
+$ express: This adds many files and folders inside the project folder
+Now open package.json file and add few dependencies in that.
+$ npm install: This will install all the dependencies
+Now a new folder will be made named as node which will consist of various files.
+Now we need to work on app.js file.
+ 
